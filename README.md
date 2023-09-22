@@ -1,4 +1,4 @@
-# Pasant-a
+# Pasant-.
 Lunes 18-09-2023: Realizamos la investigación de las herramientas escritas en el documento proporcionado por Don David Ocampo.
 
 Martes 19-09-2023: Nos reunimos para hacer la repartición del trabajo, Diego Marín y Cristopher Carranza realizaron el front-end, se creó el código HTML y su respectivo estilo en CSS.
